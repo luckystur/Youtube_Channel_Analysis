@@ -1,5 +1,4 @@
 # Youtube_Channel_Analysis
-#note - please convert json file to csv.
 
 Project Overview: YouTube Trending Videos Analysis
 
